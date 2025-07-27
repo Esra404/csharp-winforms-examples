@@ -24,16 +24,23 @@ Bu projede katmanlı mimari kullanılmıştır. Katmanlar, yazılımın okunabil
 ## 📷 Arayüzden Görseller
 
 <img width="611" height="358" alt="image" src="https://github.com/user-attachments/assets/c1087b29-e8f1-4ef8-82fe-8322fa2bd6fb" />
+<img width="859" height="502" alt="Ekran görüntüsü 2025-07-24 160559" src="https://github.com/user-attachments/assets/c43cb078-7b5b-40cb-bbb9-55ceda93c6e4" />
+<img width="1086" height="471" alt="Ekran görüntüsü 2025-07-24 160905" src="https://github.com/user-attachments/assets/65bdb1e2-881e-485c-b916-085a53dee934" />
+<img width="792" height="470" alt="Ekran görüntüsü 2025-07-24 160959" src="https://github.com/user-attachments/assets/59ef1814-1c8f-4d5c-af7c-4d16e841eb85" />
+<img width="611" height="358" alt="Ekran görüntüsü 2025-07-27 140438" src="https://github.com/user-attachments/assets/7d9cdc02-eb18-4254-8970-6e1755ff69f0" />
+
+
+
 
 Projenin `Forms` klasörü altında oluşturduğum formlar üzerinden bazı görseller paylaşılmıştır. Bunlar sayesinde arayüzün nasıl göründüğü hakkında fikir sahibi olabilirsiniz:
 
 - Ürün Ekleme Formu
 - Kategori Yönetimi
 - Listeleme ve Güncelleme Formları
-
+<!--
 ![Product Formu](screenshots/product-form.png)
 ![Category Formu](screenshots/category-form.png)
-
+-->
 ## 🚀 Nasıl Çalıştırılır?
 
 1. Projeyi Visual Studio ile açın.
